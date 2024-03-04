@@ -1,0 +1,2 @@
+kubernetes/createsecret.sh
+kubernetes/*secret.yaml
